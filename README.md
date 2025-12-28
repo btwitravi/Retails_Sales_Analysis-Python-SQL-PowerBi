@@ -40,10 +40,10 @@ This project analyzes retail sales data to uncover actionable insights that supp
 
 | File Name                     | Description                                                      |
 | ----------------------------- | ---------------------------------------------------------------- |
-| `Business_Problem.docx`         | Retail business problem statement and analytical objectives      |
+| `Business_Problem_for_Retail_Sales.docx`| Retail business problem statement and analytical objectives|
 | `retail_store_sales.csv`      | Raw retail transaction-level dataset                             |
-| `EDA.ipynb`                   | Python notebook for data cleaning, ETL, and exploratory analysis |
-| `EDA_Report.pdf`              | PDF report summarizing EDA insights                              |
+| `Retail_Sales_EDA.ipynb`      | Python notebook for data cleaning, ETL, and exploratory analysis |
+| `Retail_Sales_EDA_Report.pdf` | PDF report summarizing EDA insights                              |
 | `Retail_Sales_Dashboard.pbix` | Interactive Power BI dashboard file                              |
 | `Retail_Sales_Dashboard.png`  | Dashboard preview image                                          |
 | `README.md`                   | Project documentation and overview                               |
@@ -81,7 +81,14 @@ This project analyzes retail sales data to uncover actionable insights that supp
 - Monthly, yearly, and weekly revenue trends
 - Customer-wise revenue and payment behavior analysis
 
+### Dashboard1 
+![Dashboard](Dashboard1.png)
+
+### Dashboard2 
+![Dashboard](Dashboard2.png)
 ---
+
+
 
 ## 💡 Key Insights
 - Revenue is almost evenly split between **online and in-store** sales, with online slightly higher
